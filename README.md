@@ -3,7 +3,7 @@
 <h3 align="center">I am a Technology Specialist with a passion for frontend development. I have a Bachelor degree in Information Management (BIM) and over 1 years of experience in building responsive and user friendly websites. I have good skills in React JS, API integration, UI design, and Figma. I enjoy learning new technologies and solving challenging problems.</h3>
 
 <!-- <img align="right" alt="Coding" width:"400" src="https://www.pinterest.com/pin/127578601937558458/"/> -->
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding&psig=AOvVaw0PCO8ybZZTi01_oGJTDWDB&ust=1719403715067000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCRg-Td9oYDFQAAAAAdAAAAABAE"/>
+<img align="right" alt="Coding" width="400" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivekjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="bivekjoshi" /> </p>
 
