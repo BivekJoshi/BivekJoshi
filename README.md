@@ -1,6 +1,6 @@
 <!-- [![MasterHead](./masterheadd.jpg)] -->
 <!-- (https://rishavchanda.io) -->
-<img align="center" alt="Coding" width="100%" height="600" src="./main.jpg"/>
+<img align="center" alt="Coding" width="100%" height="500" src="./masterheadd.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Bivek Joshi</h1>
 <h3 align="center">I am a Technology Specialist with a passion for frontend development. I have a Bachelor degree in Information Management (BIM) and over 1 years of experience in building responsive and user friendly websites. I have good skills in React JS, API integration, UI design, and Figma. I enjoy learning new technologies and solving challenging problems.</h3>
