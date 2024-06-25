@@ -4,7 +4,7 @@
 
 <!-- <img align="right" alt="Coding" width:"400" src="https://www.pinterest.com/pin/127578601937558458/"/> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"/> -->
-<img align="right" alt="Coding" width="400" height:400 src="./main.jpg"/>
+<img align="right" alt="Coding" width="400" height:4=200 src="./main.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivekjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="bivekjoshi" /> </p>
 
